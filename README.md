@@ -6,4 +6,5 @@ This is a MERN stack backend project built using:
 - Express.js
 - MongoDB
 
+Updated documentation for learning GitHub workflow.
 Created by Mohamed Sabeek.
